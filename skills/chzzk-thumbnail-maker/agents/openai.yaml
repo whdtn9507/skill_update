@@ -1,0 +1,4 @@
+interface:
+  display_name: "치지직 썸네일 제작"
+  short_description: "마차우 방송 주제를 반영하는 치지직 썸네일 제작 도우미"
+  default_prompt: "Use $chzzk-thumbnail-maker to create a 1280×720 Chzzk thumbnail for 마차우: [방송 내용], [시간], [문구]."
