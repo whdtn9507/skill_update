@@ -1,0 +1,4 @@
+interface:
+  display_name: "Suno BGM Prompt"
+  short_description: "Create concise Suno prompts for stream and short-video BGM"
+  default_prompt: "Create a Suno BGM prompt using these conditions:"
